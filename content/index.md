@@ -1,8 +1,6 @@
 ---
 title: bem-vindo à minha mente
 ---
-# bem-vindo à minha mente
-
 Este [[jardim digital]] é uma coleção dos meus **pensamentos**, representados em **notas**. Ele é diferente de um blog (veja a [[diferença entre blog e jardim digital]]). Estas páginas estão aqui como uma coleção aberta das notas, recursos, esboços e explorações que eu faço ao longo da minha vida, enquanto aprendo, sendo também uma espécie de **aprendizado em público**.
 
 Este **jardim digital** começou a nascer, ainda somente dentro da minha mente, a partir do momento em que eu comecei a me interessar por [[lifelong learning]] e por [[PKM|personal knowledge management]], sendo que, depois de muita tentativa e erro, começou a ganhar forma física (quer dizer, **_digital_**), graças ao [[Wikilogging]], sistema criado pelo [[Taylor Hadden]].
